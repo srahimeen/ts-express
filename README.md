@@ -7,7 +7,7 @@ A lightweight process to get an Express + TypeScript project set up and running.
 
     npm init
 
-## Install TypeScript, Express, and dependencies
+## Install TypeScript and Express
 
     npm i -D typescript
     npm i express
