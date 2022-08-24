@@ -27,6 +27,8 @@ Alternative to nodemon for TypeScript.
     npm i -D jest ts-jest @types/jest
     npm i -D supertest @types/supertest
 
+# Update package.json
+
 ## Add jest config
 Required for running supertest and jest tests in TypeScript.
 
